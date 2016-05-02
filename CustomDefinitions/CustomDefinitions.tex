@@ -1,0 +1,203 @@
+\documentclass[pdftex,12pt,a4paper]{report}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage[fleqn]{amsmath}
+\usepackage[fleqn]{mathtools}
+\usepackage{mathrsfs}
+\usepackage{amsfonts}
+\usepackage{geometry}
+\usepackage{listings}
+\usepackage{wrapfig}
+\usepackage{multirow,array}
+\usepackage{tabularx}
+\usepackage{textcomp}
+\usepackage[T1]{fontenc}
+\usepackage{inconsolata}
+\usepackage{color}
+\usepackage{lipsum}
+\usepackage{courier}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{verbatim}
+\usepackage{minitoc}
+\usepackage{relsize}
+
+\geometry{
+    a4paper,
+    % total={210mm,297mm},
+    left=20mm,
+    right=20mm,
+    top=20mm,
+    bottom=20mm,
+}
+
+\def\imagetop#1{\vtop{\null\hbox{#1}}}
+
+\newcommand\myeq{\stackrel{\mathclap{\normalfont \tiny \mbox{def}}}{=}}
+\renewcommand*\thesection{\arabic{section}}
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}} % <--- this defines the vertical lines on the title page
+
+\begin{document}
+    \fontfamily{ptm}\selectfont
+    \begin{titlepage}
+        \begin{center}
+            \vspace*{180px}
+            \textsc{\Large Very Impressive Text}\\[0.8cm]
+            \HRule \\[0.4cm]
+            {
+                \Huge
+                \bfseries
+                Collection of important mathematical bullshit and definitions
+                \\[0.4cm]
+            }
+            \HRule \\[1.5cm]
+        \end{center}
+        \noindent
+        \begin{minipage}{0.7\textwidth}
+            \begin{flushleft} \large
+                \emph{Author:} \\
+                Master of Bullshit (M.Bs.) Unknown6656
+            \end{flushleft}
+        \end{minipage}
+    \end{titlepage}
+    \newpage
+    %---- here begins the table of content ----%
+    \setcounter{minitocdepth}{0}
+    \dominitoc
+    \tableofcontents
+    \minitoc
+    %---- here ends the table of content ----%
+    \newpage
+    \setcounter{section}{0}
+    \section{VfdA}
+    The abbreviation \emph{VfdA} stands for the German expression \emph{Voll für den Ar***} and can be used in pseudo-academic papers and documents like the current one. It is generally used before a long-winded and utterly useless mathematical proof, which stands in no connection to the rest of the paper. It is only used to impress possible readers and to boast about the non-existent knowledge of the author about mathematical subjects. A perfect example for this abbreviation is the following one:
+    \\
+    \medskip
+    \begin{equation*}
+        \begin{aligned}
+            \textsl{VfdA}: \quad \mathcal{F}(f)(t) = \frac{1}{\left( 2 \pi \right)^\frac{n}{2}} \, \int_{\mathbb{R}^n} \, f(x)e^{-it*x} \, \mathrm{d}x
+            \qquad
+            \qquad
+            \ 
+            \int_{-\infty}^{\infty} \left| f(t) \right| \, \mathrm{d}x < \infty
+        \end{aligned}
+    \end{equation*}
+    \begin{equation*}
+        \begin{aligned}
+            \begin{matrix*}[l]
+                f_m & = & \sum_{k=0}^{n-1} x_{2k} e^{- \frac{2 \pi i}{2 n} m (2k)} + \sum_{k=0}^{n-1} x_{2k + 1} e^{- \frac{2 \pi i}{2 n} m (2k + 1)}
+                \\  &   &
+                \\  & = & \sum_{k=0}^{n-1} x'_k e^{- \frac{2 \pi i}{2 n} mk} + e^{-\frac{\pi i}{n} m} \, \sum_{k=0}^{n-1} x''_k e^{- \frac{2 \pi i}{n} mk}
+                \\  &   &
+                \\  & = &
+                \begin{cases}
+                    f'_m + e^{- \frac{\pi i}{n} m} f''_m             & \text{ if } m < n \\
+                    f'_{m-n} - e^{- \frac{\pi i}{n} (m-n)} f''_{m-n} & \text{ if } m \geq n
+                \end{cases}
+            \end{matrix*}
+        \end{aligned}
+    \end{equation*}
+    \vspace{2mm}
+    \\
+    One shall note, that \emph{VfdA} automatically implicates \emph{OBdA} (German: \emph{Ohne Beschränkung der Allgemeinheit}, English: \emph{Without loss of generality}) to compensate the so-called \emph{LoC} (English: \emph{Loss of context}) when used.
+    \vspace{5mm} \hrule \vspace{5mm}
+    \section{Plustorial}
+    The \emph{plustorial} (German: \emph{Die Plusultät}) of a number is defined as follows:
+    \begin{equation*}
+        \begin{aligned}
+            n? := \sum_{i = 1}^n i \quad (n \in \mathbb{Z})
+            \qquad\qquad
+            n? = \sum_{i = 1}^n i = \frac{n (n - 1)}{2}
+        \end{aligned}
+    \end{equation*}
+    \vspace{5mm} \hrule \vspace{5mm}
+    \section{Closed Interval}
+    The alternate notation for a closed interval over a set $ K \subseteq \mathbb{K} $, which has the comparison operator $ \leq $ defined for every elements $ k,l \in K $, can be written as follows:
+    \begin{equation*}
+        \begin{aligned}
+            \langle k,l \rangle :=
+            \begin{cases}
+                \left[ k,l \right], & \text{if}\ k \leq l \\
+                \left[ l,k \right], & \text{otherwise}
+            \end{cases}
+            \qquad\qquad
+            l,k \in K \subseteq \mathbb{K}
+        \end{aligned}
+    \end{equation*}
+    \begin{equation*}
+        \begin{aligned}
+            \langle \pm k \rangle := \left[ -k,k \right]
+        \end{aligned}
+    \end{equation*}
+    \vspace{5mm} \hrule \vspace{5mm}
+    \section{Set with a finite amount of elements}
+    Let $ K $ be the subset of the field $ \mathbb{K} $ and let $ f : K \rightarrow \mathbb{B} $ be a function, which defines for every element $ k \in \mathbb{K} $, whether it is also an element of the subset $ K $.
+    \begin{equation*}
+        \begin{aligned}
+            \forall k \in \mathbb{K} : f (k) \Leftrightarrow k \in K
+        \end{aligned}
+    \end{equation*}
+    Based on the equation above, the subset $ K $ can now be re-defined as follows:
+    \begin{equation*}
+        \begin{aligned}
+            K = \{ k \in \mathbb{K} \ |\ f (k) \} \subset \mathbb{K}
+        \end{aligned}
+    \end{equation*}
+    The following notation can be used to indicate, that the subset $ K \subset \mathbb{K} $ has only a finite amount of elements $ k $:
+    \begin{equation*}
+        \begin{aligned}
+            \{ k \in \mathbb{K} \ |\ f (k) \}_{\substack{ < \\ \infty }} \ :\Leftrightarrow \ | \{ k \in \mathbb{K} \ |\ f (k) \} | < \infty
+        \end{aligned}
+    \end{equation*}
+    \vspace{5mm} \hrule \vspace{5mm}
+    \section{Assembler command "ABK"}
+    The i386 assembler command \verb"ABK" triggers a quadruple-fault, when loaded into the instruction cache during execution and simultaneously short-circuits the machine's DC voltage regulator with the CPU power inlet, causing the CPU to be grilled with with the given DC voltage (usually 240V in Europe). Have Fun! Example usage:
+    \vspace{1mm}
+    \fontfamily{pcr}\selectfont
+    \definecolor{mygreen}{rgb}{0,0.6,0}
+    \definecolor{mymauve}{rgb}{0.58,0,0.82}
+    \lstset{
+        language={[x86masm]Assembler},
+        commentstyle=\color{mygreen},
+        otherkeywords={*,abk},
+        numberstyle=\tiny\color{mymauve}
+    }
+    \begin{lstlisting}
+    mov   dword ptr [ebp-18h],esp
+    push  1
+    call  dword ptr ds:[404090h]
+    add   esp,4
+    mov   dword ptr ds:[403030h],0FFFFFFFFh
+    mov   ecx,dword ptr ds:[403020h]
+    call  dword ptr ds:[404088h]
+    mov   edx,dword ptr ds:[403028h]
+    mov   dword ptr [eax],edx
+    mov   dword ptr ds:[403038h],ecx
+    mov   eax,[403010]
+    call  dword ptr ds:[404080h]
+    add   esp,4
+    call  401C60
+    push  403008h
+    add   esp,8
+    mov   edx,dword ptr ds:[403024h]
+    mov   dword ptr [ebp-28h],edx
+    push  eax
+    mov   ecx,dword ptr ds:[403020h]
+    lea   ecx,dword ptr [ebp-10h]
+    abk   // initiate quadruple-faulting
+    \end{lstlisting}
+    \fontfamily{ptm}\selectfont
+    \vspace{5mm} \hrule
+    \newpage
+    \section{<To be defined>}
+    \textsl{<insert some random text here>}
+\end{document}
+
+
+
+
+
+
+
+
+
