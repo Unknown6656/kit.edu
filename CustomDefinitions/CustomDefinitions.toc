@@ -3,4 +3,5 @@
 \contentsline {section}{\numberline {3}Closed Interval}{2}
 \contentsline {section}{\numberline {4}Set with a finite amount of elements}{3}
 \contentsline {section}{\numberline {5}Assembler command "ABK"}{3}
-\contentsline {section}{\numberline {6}<To be defined>}{4}
+\contentsline {section}{\numberline {6}$ \varepsilon $-Potato}{4}
+\contentsline {section}{\numberline {7}<to be defined>}{4}
