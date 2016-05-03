@@ -191,7 +191,7 @@
     \vspace{5mm} \hrule
     \newpage
     \section{$ \varepsilon $-Potato}
-    The so-called \emph{Epsilon-Kartoffel} (German expression for \emph{epsilon-potato}) is a special form of an open topological $\varepsilon$-sphere or $\varepsilon$-neighbourhood. It is a subset of the topological space $ \mathbb{K}^n $, which is grouped around the element $ m \in \mathbb{K}^n $. The following rules apply for a subset $ K_{\varepsilon}(m) \subset \mathbb{K}^n $ being qualified as a \emph{epsilon-potato} around the point $ m $:
+    The so-called \emph{Epsilon-Kartoffel} (German expression for \emph{epsilon-potato}) is a special form of an open convex topological $\varepsilon$-sphere or $\varepsilon$-neighbourhood. It is a subset of the topological space $ \mathbb{K}^n $, which is grouped around the element $ m \in \mathbb{K}^n $. The following rules apply for a subset $ K_{\varepsilon}(m) \subset \mathbb{K}^n $ being qualified as a \emph{epsilon-potato} around the point $ m $:
     \\
     \begin{equation*}
         \begin{aligned}
@@ -201,15 +201,15 @@
             \\
             \text{(3)} \quad & K_{\varepsilon}(m), \mathfrak{S}(K_{\varepsilon}(m)) \subseteq \mathcal{C}^\infty (\mathbb{K}^n)
             \\
-            \text{(4)} \quad & \forall p \in \mathfrak{S}(K_{\varepsilon}(m)) : \nexists q \in K_{\varepsilon}(m) : \exists k \in \mathbb{K} : \vec{mp} * k = \vec{mq} \wedge \|p-m\| \leq \|p-q\|
+            % \text{(4)} \quad & \forall p \in \mathfrak{S}(K_{\varepsilon}(m)) : \nexists q \in K_{\varepsilon}(m) : \exists k \in \mathbb{K} : \vec{mp} * k = \vec{mq} \wedge \|p-m\| \leq \|p-q\|
+            % \\
+            \text{(4)} \quad & \frac{\sup \ \{\|p-m\| : p \in K_{\varepsilon}(m)\}}{\inf \ \{\|q-m\| : q \in \mathbb{K}^n \backslash K_{\varepsilon}(m)\}} < \infty
             \\
-            \text{(5)} \quad & \forall p \in K_{\varepsilon}(m) : \exists q \in \mathbb{K}^n \backslash K_{\varepsilon}(m) : \frac{\sup(\|p-m\|)}{\inf(\|q-m\|)} < \infty
-            \\
-            \text{(6)} \quad & \forall p \in K_{\varepsilon}(m) : \|p-m\| < \infty
+            \text{(5)} \quad & \forall p \in K_{\varepsilon}(m) : \|p-m\| < \infty
         \end{aligned}
     \end{equation*}
     \\
-    As the requirements $ (3) $ and $ (4) $ state, the surface $ \mathfrak{S}(K_{\varepsilon}(m)) $ must be an absolute continuously one. It can also be represented by the following function $ \mathcal{S} $:
+    As the requirement $ (3) $ states, the surface $ \mathfrak{S}(K_{\varepsilon}(m)) $ must be an absolute continuously one. It can also be represented by the following function $ \mathcal{S} $:
     \begin{equation*}
         \begin{aligned}
             \mathcal{S} : \mathbb{K}^n \rightarrow \mathfrak{S}(K_{\varepsilon}(m)) \qquad \mathcal{S} \in \mathcal{C}^\infty (\mathbb{K}^n)
