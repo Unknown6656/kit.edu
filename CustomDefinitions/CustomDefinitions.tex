@@ -218,7 +218,53 @@
     which is an absolute continuous one over the field $ \mathbb{K}^n $ and represents each point on the potato's surface $ \mathfrak{S}(K_{\varepsilon}(m)) $ based on the given $ n $-dimensional rotation angle $ \varphi \in \mathbb{K}^n $.
     \newline
     The point $ m $ is also defined as the \emph{physical center of mass} of the $\varepsilon$-potato $ K_{\varepsilon}(m) $.
+    \\
+    \includegraphics[width=\textwidth]{./potato-grid.png}
+    \\
+    \vspace{5mm} \hrule
+    \newpage
+    \section{The $ \textit{for-probably-all-} $quantifier}
+    The \emph{for-probably-all}-quantifier (written as a \emph{W} combined with an vertically flipped \emph{A}) is a quantifier, which states that the given condition is \emph{probably} valid for all elements. The number of elements, for which the given condition is \emph{probably} valid must be a finite number.
+    \\
+    The following example demonstrates the use of the \emph{for-probably-all}-quantifier by assuming that one could divide by \emph{probably} every number in the field of rational numbers $ \mathbb{Q} $
+    \begin{equation*}
+        \begin{aligned}
+            \hbox{\fontsize{13.3pt}{15pt}\selectfont $ \vee $} \hspace{-1.2pt} \forall p,q \in \mathbb{Q} : pq^{-1} \in \mathbb{Q}
+        \end{aligned}
+    \end{equation*}
+    As we very well know, one cannot divide a number by zero, thus the use of a \emph{for-all}-quantifier would be illegal. The \emph{for-probably-all}-quantifier, however, solves this problem, as the amount of elements whom which a number cannot be divided by (only zero) is finite:
+    \begin{equation*}
+        \begin{aligned}
+            \{ q \in \mathbb{Q} \ | \ \verb"number cannot be divided by " q \}_{\substack{ < \\ \infty }}
+        \end{aligned}
+    \end{equation*}
+    The formal definition for the \emph{for-probably-all}-quantifier is therefore:
+    \begin{equation*}
+        \begin{aligned}
+            \text{let } M \subseteq \mathbb{K} \text{,} \quad \text{let } f : M \rightarrow \mathbb{B}
+        \end{aligned}
+    \end{equation*}
+    \begin{equation*}
+        \begin{aligned}
+            \hbox{\fontsize{13.3pt}{15pt}\selectfont $ \vee $} \hspace{-1.2pt} \forall k \in M : f(k)
+            \quad :\Longleftrightarrow \quad
+            \{ k \in M \ | \ \neg f(M) \}_{\substack{ < \\ \infty }} =: T \subsetneq \mathbb{K}
+            \quad \wedge \quad
+            \forall k \in M \backslash T : f(k)
+        \end{aligned}
+    \end{equation*}
     \vspace{5mm} \hrule
     \section{<to be defined>}
     \textsl{<to be defined>}
 \end{document}
+
+
+
+
+
+
+
+
+
+
+
