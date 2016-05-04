@@ -22,6 +22,8 @@
 \usepackage{verbatim}
 \usepackage{minitoc}
 \usepackage{relsize}
+\usepackage{hyperref}
+\usepackage{xcolor}
 
 \geometry{
     a4paper,
@@ -34,6 +36,8 @@
 
 \def\imagetop#1{\vtop{\null\hbox{#1}}}
 
+\newcommand{\sfa}{_{\substack{ < \\ \infty }}}
+\newcommand{\fpa}{\hbox{\fontsize{13.3pt}{15pt}\selectfont $ \vee $} \hspace{-1.2pt} \forall}
 \newcommand\myeq{\stackrel{\mathclap{\normalfont \tiny \mbox{def}}}{=}}
 \renewcommand*\thesection{\arabic{section}}
 \newcommand{\HRule}{\rule{\linewidth}{0.5mm}} % <--- this defines the vertical lines on the title page
@@ -147,7 +151,7 @@
     The following notation can be used to indicate, that the subset $ K \subset \mathbb{K} $ has only a finite amount of elements $ k $:
     \begin{equation*}
         \begin{aligned}
-            \{ k \in \mathbb{K} \ |\ f (k) \}_{\substack{ < \\ \infty }} \ :\Leftrightarrow \ | \{ k \in \mathbb{K} \ |\ f (k) \} | < \infty
+            \{ k \in \mathbb{K} \ |\ f (k) \}\sfa \ :\Leftrightarrow \ | \{ k \in \mathbb{K} \ |\ f (k) \} | < \infty
         \end{aligned}
     \end{equation*}
     \vspace{5mm} \hrule \vspace{5mm}
@@ -197,7 +201,7 @@
         \begin{aligned}
             \text{(1)} \quad & m \in \mathbb{K}^n \ , \ m \in K_{\varepsilon}(m)
             \\
-            \text{(2)} \quad & {K_{\varepsilon}(m)}_{\substack{ < \\ \infty }}
+            \text{(2)} \quad & {K_{\varepsilon}(m)}\sfa
             \\
             \text{(3)} \quad & K_{\varepsilon}(m), \mathfrak{S}(K_{\varepsilon}(m)) \subseteq \mathcal{C}^\infty (\mathbb{K}^n)
             \\
@@ -226,16 +230,16 @@
     \section{The $ \textit{for-probably-all-} $quantifier}
     The \emph{for-probably-all}-quantifier (written as a \emph{W} combined with an vertically flipped \emph{A}) is a quantifier, which states that the given condition is \emph{probably} valid for all elements. The number of elements, for which the given condition is \emph{probably} valid must be a finite number.
     \\
-    The following example demonstrates the use of the \emph{for-probably-all}-quantifier by assuming that one could divide by \emph{probably} every number in the field of rational numbers $ \mathbb{Q} $
+    The following example demonstrates the use of the \emph{for-probably-all}-quantifier by assuming that one could divide by \emph{probably} every number in the field of rational numbers $ \mathbb{Q} $ :
     \begin{equation*}
         \begin{aligned}
-            \hbox{\fontsize{13.3pt}{15pt}\selectfont $ \vee $} \hspace{-1.2pt} \forall p,q \in \mathbb{Q} : pq^{-1} \in \mathbb{Q}
+            \fpa p,q \in \mathbb{Q} : pq^{-1} \in \mathbb{Q}
         \end{aligned}
     \end{equation*}
     As we very well know, one cannot divide a number by zero, thus the use of a \emph{for-all}-quantifier would be illegal. The \emph{for-probably-all}-quantifier, however, solves this problem, as the amount of elements whom which a number cannot be divided by (only zero) is finite:
     \begin{equation*}
         \begin{aligned}
-            \{ q \in \mathbb{Q} \ | \ \verb"number cannot be divided by " q \}_{\substack{ < \\ \infty }}
+            \{ q \in \mathbb{Q} \ | \ \verb"number cannot be divided by " q \}\sfa
         \end{aligned}
     \end{equation*}
     The formal definition for the \emph{for-probably-all}-quantifier is therefore:
@@ -246,11 +250,55 @@
     \end{equation*}
     \begin{equation*}
         \begin{aligned}
-            \hbox{\fontsize{13.3pt}{15pt}\selectfont $ \vee $} \hspace{-1.2pt} \forall k \in M : f(k)
+            \fpa k \in M : f(k)
             \quad :\Longleftrightarrow \quad
-            \{ k \in M \ | \ \neg f(M) \}_{\substack{ < \\ \infty }} =: T \subsetneq \mathbb{K}
+            \{ k \in M \ | \ \neg f(M) \}\sfa =: T \subsetneq \mathbb{K}
             \quad \wedge \quad
             \forall k \in M \backslash T : f(k)
+        \end{aligned}
+    \end{equation*}
+    The \emph{for-probably-all}-quantifier can be seen as an implication of the \emph{for-all}-quantifier:
+    \begin{equation*}
+        \begin{aligned}
+            \forall A \quad \Longrightarrow \quad \fpa A \qquad \qquad (A \in \mathbb{B})
+        \end{aligned}
+    \end{equation*}
+    The probability, that the given statement $ A \in \mathbb{B} $ is probably true inside a \emph{for-all}-quantifier, when it has been proven true inside a \emph{for-probably-all}-quantifier, is called the \textit{magnitude of the for-probably-all-quantifier} and is usually written as $ \mathfrak{p} \in (0.5,1] $. \\ \\
+    Example:
+    \begin{equation*}
+        \begin{aligned}
+            \text{let } M = [-10, 10] \subseteq \mathbb{K} \text{,} \qquad \text{let } f : M \rightarrow \mathbb{B} : k \mapsto \exists^1 l \in M : k = -l
+        \end{aligned}
+    \end{equation*}
+    \begin{equation*}
+        \begin{aligned}
+            \fpa k \in M : f(k) \quad \Longrightarrow \quad \mathfrak{p}(\forall k \in M : f(k)) > 99\%
+        \end{aligned}
+    \end{equation*}
+    In the example above, the \emph{for-probably-all}-quantifier assumes, that with a probability of over 99\%, each element $ k \in M $ has an additive inverse element $ l \in M $, for which the equation $ k = -l $ is true.
+    \\ \\
+    Only with the use of highly sophisticated tools like \url{http://www.wolframalpha.com/}, one can decide whether the $ \forall $- or $ \exists^+ $-quantifier shall be used instead of the $ \fpa $-quantifier.
+    \vspace{5mm} \hrule
+    \section{The $ \textit{troll} $-quantifier}
+    The so-called \emph{troll}-quantifier is an variation of the \emph{exists}-quantifier, which states that the the given element usually exists .... \emph{but} one shall note, that it may also not exist:
+    \begin{equation*}
+        \begin{aligned}
+            \text{let } M \subseteq \mathbb{K} \text{,} \qquad \text{let } f : M \rightarrow \mathbb{B}
+        \end{aligned}
+    \end{equation*}
+    \begin{equation*}
+        \begin{aligned}
+            \bot k \in M : f(k) \quad :\Longleftrightarrow \quad \exists k \in M : f(k) \textcolor{gray}{\ \ ( \ \ \vee \ \ \ \nexists k \in M : f(k) \ \ )}
+        \end{aligned}
+    \end{equation*}
+    The probability that the \emph{exists}-quantifier is true, when the \emph{troll}-quantifier has been proven true is called the \textit{magnitude of the troll-quantifier} and is usually written as $ \mathfrak{t} \in (0.5,1] $. The magnitudes $ \mathfrak{t} $ and  $ \mathfrak{p} $ are equal as shown as follows:
+    \begin{equation*}
+        \begin{aligned}
+            \fpa A \ \Longrightarrow \ \bot A
+            \qquad\qquad
+            \mathfrak{p}(\forall A) \ =\ \mathfrak{t}(\exists A)
+            \qquad\qquad
+            (A \in \mathbb{B})
         \end{aligned}
     \end{equation*}
     \vspace{5mm} \hrule
