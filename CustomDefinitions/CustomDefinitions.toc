@@ -7,4 +7,5 @@
 \contentsline {section}{\numberline {7}The $ \textit {for-probably-all-} $quantifier}{5}{section.0.7}
 \contentsline {section}{\numberline {8}The $ \textit {troll} $-quantifier}{5}{section.0.8}
 \contentsline {section}{\numberline {9}Polynomial final solution}{6}{section.0.9}
-\contentsline {section}{\numberline {10}<to be defined>}{6}{section.0.10}
+\contentsline {section}{\numberline {10}The $ \emph {blah blah blah} $-operator}{6}{section.0.10}
+\contentsline {section}{\numberline {11}<to be defined>}{6}{section.0.11}

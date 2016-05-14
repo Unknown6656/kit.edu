@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.21)  12 MAY 2016 19:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.21)  14 MAY 2016 22:31
 entering extended mode
 **B:/TeX/Projects/CustomDefinitions/CustomDefinitions.tex
 (B:/TeX/Projects/CustomDefinitions/CustomDefinitions.tex
@@ -835,28 +835,30 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
-) (CustomDefinitions.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 45.
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 41.
+ (CustomDefinitions.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 51.
 
 (B:\MiKTeX\miktex\2.9\tex\latex\base\ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
 
 (B:\MiKTeX\miktex\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -935,7 +937,7 @@ Package minitoc(hints) Warning: W0023
 (minitoc(hints))                of loading the ``hyperref'' package.
 
 \AtBeginShipoutBox=\box34
-Package hyperref Info: Link coloring OFF on input line 45.
+Package hyperref Info: Link coloring ON on input line 51.
 (B:\MiKTeX\miktex\2.9\tex\latex\hyperref\nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -944,30 +946,30 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count141
 )
-LaTeX Info: Redefining \ref on input line 45.
-LaTeX Info: Redefining \pageref on input line 45.
-LaTeX Info: Redefining \nameref on input line 45.
+LaTeX Info: Redefining \ref on input line 51.
+LaTeX Info: Redefining \pageref on input line 51.
+LaTeX Info: Redefining \nameref on input line 51.
 
 (CustomDefinitions.out) (CustomDefinitions.out)
 \@outlinefile=\write4
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 46.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 52.
 
 (B:\MiKTeX\miktex\2.9\tex\latex\psnfss\t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 54.
-LaTeX Font Info:    Try loading font information for U+msa on input line 66.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 60.
+LaTeX Font Info:    Try loading font information for U+msa on input line 72.
 
 (B:\MiKTeX\miktex\2.9\tex\latex\amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 66.
+LaTeX Font Info:    Try loading font information for U+msb on input line 72.
 
 (B:\MiKTeX\miktex\2.9\tex\latex\amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 66.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 72.
 
 (B:\MiKTeX\miktex\2.9\tex\latex\jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
@@ -976,7 +978,7 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 {C:/Users/David Funke/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 Package minitoc Info: I0024
 (minitoc)             PREPARING MINITOCS FROM CustomDefinitions.toc on input li
-ne 72.
+ne 78.
 
 {\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \n
 umberline {1}VfdA}{\reset@font\mtcSfont 2}{section.0.1}}
@@ -1000,20 +1002,23 @@ n.0.8}}
 {\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \n
 umberline {9}Polynomial final solution}{\reset@font\mtcSfont 6}{section.0.9}}
 {\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \n
-umberline {10}<to be defined>}{\reset@font\mtcSfont 6}{section.0.10}}
+umberline {10}The $ \emph {blah blah blah} $-operator}{\reset@font\mtcSfont 6}{
+section.0.10}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \n
+umberline {11}<to be defined>}{\reset@font\mtcSfont 6}{section.0.11}}
 (CustomDefinitions.toc)
 \tf@toc=\write5
 Package minitoc Info: I0006
-(minitoc)             CustomDefinitions.mtc0 is empty on input line 75.
+(minitoc)             CustomDefinitions.mtc0 is empty on input line 81.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.75     \newpage
+l.81     \newpage
                   [1
 
 ] [2]
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 159.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 165.
  (B:\MiKTeX\miktex\2.9\tex\latex\psnfss\t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
@@ -1027,116 +1032,124 @@ File: lstlang2.sty 2015/06/04 1.6 listings language file
 File: lstlang3.sty 2015/06/04 1.6 listings language file
 )
 LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <12> not available
-(Font)              Font shape `T1/pcr/b/n' tried instead on input line 171.
+(Font)              Font shape `T1/pcr/b/n' tried instead on input line 177.
  [3]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 197.
+(hyperref)                removing `math shift' on input line 203.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\varepsilon' on input line 197.
+(hyperref)                removing `\varepsilon' on input line 203.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 197.
+(hyperref)                removing `math shift' on input line 203.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 198--200
+Underfull \hbox (badness 10000) in paragraph at lines 204--206
 
  []
 
-LaTeX Font Info:    Try loading font information for U+euf on input line 206.
+LaTeX Font Info:    Try loading font information for U+euf on input line 212.
 (B:\MiKTeX\miktex\2.9\tex\latex\amsfonts\ueuf.fd
 File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
 )
-<./potato-grid.png, id=112, 1247.66125pt x 899.36pt>
+<./potato-grid.png, id=117, 1247.66125pt x 899.36pt>
 File: ./potato-grid.png Graphic file (type png)
  <use ./potato-grid.png>
-Package pdftex.def Info: ./potato-grid.png used on input line 226.
+Package pdftex.def Info: ./potato-grid.png used on input line 232.
 (pdftex.def)             Requested size: 483.69687pt x 348.66307pt.
 
 [4 <./potato-grid.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 230.
+(hyperref)                removing `math shift' on input line 236.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 230.
+(hyperref)                removing `math shift' on input line 236.
 
-LaTeX Font Info:    Calculating math sizes for size <13.3> on input line 236.
+LaTeX Font Info:    Calculating math sizes for size <13.3> on input line 242.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13.3> not available
-(Font)              size <14.4> substituted on input line 236.
+(Font)              size <14.4> substituted on input line 242.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <13.3> not available
-(Font)              size <14.4> substituted on input line 236.
+(Font)              size <14.4> substituted on input line 242.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <13.3> not available
-(Font)              size <14.4> substituted on input line 236.
+(Font)              size <14.4> substituted on input line 242.
 
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <13.3> not available
-(Font)              size <14.4> substituted on input line 236.
+(Font)              size <14.4> substituted on input line 242.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 265--268
+Underfull \hbox (badness 10000) in paragraph at lines 271--274
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--281
+Underfull \hbox (badness 10000) in paragraph at lines 283--287
 
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 282.
+(hyperref)                removing `math shift' on input line 288.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 282.
+(hyperref)                removing `math shift' on input line 288.
 
-[5] <./TI83.png, id=126, 225.84375pt x 491.8375pt>
+[5] <./TI83.png, id=131, 225.84375pt x 491.8375pt>
 File: ./TI83.png Graphic file (type png)
  <use ./TI83.png>
-Package pdftex.def Info: ./TI83.png used on input line 326.
+Package pdftex.def Info: ./TI83.png used on input line 332.
 (pdftex.def)             Requested size: 18.43315pt x 40.15015pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 337.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 337.
+
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the CustomDefinitions.maf file.
-
 
 Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the CustomDefinitions.log file.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 333.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 361.
 [6 <./TI83.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 333.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 361.
  (CustomDefinitions.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 333.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 333.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 361.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 361.
 Package rerunfilecheck Info: File `CustomDefinitions.out' has not changed.
-(rerunfilecheck)             Checksum: 710AAE60F5E214602170775942105656;579.
+(rerunfilecheck)             Checksum: 799602B71F8EC20A0EF1569245CBBCCD;651.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.09999pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 333.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 361.
  ) 
 Here is how much of TeX's memory you used:
- 12611 strings out of 493673
- 172298 string characters out of 3151255
- 406527 words of memory out of 3000000
- 15487 multiletter control sequences out of 15000+200000
+ 12616 strings out of 493673
+ 172379 string characters out of 3151255
+ 406550 words of memory out of 3000000
+ 15491 multiletter control sequences out of 15000+200000
  67520 words of font info for 110 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 29i,22n,40p,611b,1486s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,22n,42p,611b,1486s stack positions out of 5000i,500n,10000p,200000b,50000s
 {B:/MiKTeX/miktex/2.9/fonts/enc/dvips/cm-super/cm-super-t1.enc}{B:/MiKTeX/mik
 tex/2.9/fonts/enc/dvips/fontname/8r.enc}<B:/MiKTeX/miktex/2.9/fonts/type1/publi
 c/amsfonts/cm/cmex10.pfb><B:/MiKTeX/miktex/2.9/fonts/type1/public/amsfonts/cm/c
@@ -1155,9 +1168,9 @@ e1/urw/courier/ucrb8a.pfb><B:/MiKTeX/miktex/2.9/fonts/type1/urw/courier/ucrr8a.
 pfb><B:/MiKTeX/miktex/2.9/fonts/type1/urw/times/utmb8a.pfb><B:/MiKTeX/miktex/2.
 9/fonts/type1/urw/times/utmr8a.pfb><B:/MiKTeX/miktex/2.9/fonts/type1/urw/times/
 utmr8a.pfb><B:/MiKTeX/miktex/2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on CustomDefinitions.pdf (7 pages, 535379 bytes).
+Output written on CustomDefinitions.pdf (7 pages, 538868 bytes).
 PDF statistics:
- 212 PDF objects out of 1000 (max. 8388607)
- 41 named destinations out of 1000 (max. 500000)
- 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 217 PDF objects out of 1000 (max. 8388607)
+ 42 named destinations out of 1000 (max. 500000)
+ 99 words of extra memory for PDF output out of 10000 (max. 10000000)
 
