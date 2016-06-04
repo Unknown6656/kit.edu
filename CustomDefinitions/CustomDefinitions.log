@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.18)  25 MAY 2016 20:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.18)  4 JUN 2016 21:20
 entering extended mode
 **B:/TeX/Projects/CustomDefinitions/CustomDefinitions.tex
 (B:/TeX/Projects/CustomDefinitions/CustomDefinitions.tex
@@ -1007,7 +1007,9 @@ section.0.10}}
 {\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \n
 umberline {11}Unsort-sort}{\reset@font\mtcSfont 7}{section.0.11}}
 {\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \n
-umberline {12}<to be defined>}{\reset@font\mtcSfont 7}{section.0.12}}
+umberline {12}Interval constraints}{\reset@font\mtcSfont 7}{section.0.12}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \n
+umberline {13}<to be defined>}{\reset@font\mtcSfont 7}{section.0.13}}
 (CustomDefinitions.toc)
 \tf@toc=\write5
 Package minitoc Info: I0006
@@ -1057,7 +1059,7 @@ LaTeX Font Info:    Try loading font information for U+euf on input line 212.
 (B:\MiKTeX\miktex\2.9\tex\latex\amsfonts\ueuf.fd
 File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
 )
-<./potato-grid.png, id=122, 1247.66125pt x 899.36pt>
+<./potato-grid.png, id=127, 1247.66125pt x 899.36pt>
 File: ./potato-grid.png Graphic file (type png)
  <use ./potato-grid.png>
 Package pdftex.def Info: ./potato-grid.png used on input line 232.
@@ -1107,7 +1109,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 288.
 
-[5] <./TI83.png, id=136, 225.84375pt x 491.8375pt>
+[5] <./TI83.png, id=141, 225.84375pt x 491.8375pt>
 File: ./TI83.png Graphic file (type png)
  <use ./TI83.png>
 Package pdftex.def Info: ./TI83.png used on input line 332.
@@ -1134,26 +1136,26 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the CustomDefinitions.log file.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 380.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 407.
 [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 380.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 407.
  (CustomDefinitions.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 380.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 380.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 407.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 407.
 Package rerunfilecheck Info: File `CustomDefinitions.out' has not changed.
-(rerunfilecheck)             Checksum: 48C52C7FD0C104CDC947ECF99ECB57A5;702.
+(rerunfilecheck)             Checksum: 0BED31EC7B7132CFD43FE8BF9E4A4F6B;762.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.09999pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 380.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 407.
  ) 
 Here is how much of TeX's memory you used:
- 12617 strings out of 493673
- 172335 string characters out of 3146801
+ 12619 strings out of 493673
+ 172361 string characters out of 3146801
  406550 words of memory out of 3000000
- 15492 multiletter control sequences out of 15000+200000
+ 15493 multiletter control sequences out of 15000+200000
  67520 words of font info for 110 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  29i,22n,42p,611b,1486s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1175,9 +1177,9 @@ e1/urw/courier/ucrb8a.pfb><B:/MiKTeX/miktex/2.9/fonts/type1/urw/courier/ucrr8a.
 pfb><B:/MiKTeX/miktex/2.9/fonts/type1/urw/times/utmb8a.pfb><B:/MiKTeX/miktex/2.
 9/fonts/type1/urw/times/utmr8a.pfb><B:/MiKTeX/miktex/2.9/fonts/type1/urw/times/
 utmr8a.pfb><B:/MiKTeX/miktex/2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on CustomDefinitions.pdf (8 pages, 542214 bytes).
+Output written on CustomDefinitions.pdf (8 pages, 546071 bytes).
 PDF statistics:
- 227 PDF objects out of 1000 (max. 8388607)
- 44 named destinations out of 1000 (max. 500000)
- 107 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 232 PDF objects out of 1000 (max. 8388607)
+ 45 named destinations out of 1000 (max. 500000)
+ 115 words of extra memory for PDF output out of 10000 (max. 10000000)
 

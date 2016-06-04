@@ -375,6 +375,33 @@
         \end{aligned}
     \end{equation*}
     \vspace{5mm} \hrule
+    \section{Interval constraints}
+    A \emph{interval constraint} or \emph{set constraint} is usually applied to an interval- or range-notation and consists itself of a set, field or range. The constraint indicates that the target set is constructed only using the elements of the given constraint. e.g.:
+    \begin{equation*}
+        \begin{aligned}
+            [1..5]_{\substack{\text{} \\ \mathbb{N}}} \ := \ \{1,2,3,4,5\} \ \neq \ \{1,2,0,1,2\} \ =: \ [1..5]_{\substack{\text{} \\ \mathbb{F}_3}}
+        \end{aligned}
+    \end{equation*}
+    The formal definition of an \emph{interval/range/set/field constraint} is:
+    \begin{equation*}
+        \begin{aligned}
+            & \text{let } \mathbb{K}_0 \text{ a field and } \mathcal{P}(\mathbb{K}_0) \ni K \subseteq \mathbb{K}_0 \text{ a subset of the field } \mathbb{K}_0
+            \\
+            & [a..b]_K \ = \ [a,b]_K \ := \ \{k \in K \ |\ a \leq k \leq b\} \qquad (a,b \in K, \ a \leq b)
+            \\
+            \\
+            & \text{let } \mathbb{K}_1 \subseteq \mathbb{K}_0 \text{ be another field and } \mathcal{P}(\mathbb{K}_1) \ni L \subseteq \mathbb{K}_1 \text{ a subset of the field } \mathbb{K}_1
+            \\
+            & K_L \ := \ \{k \in K \ |\ k \in L\}\ = \ K \cap L \ \subseteq \ \mathbb{K}_0
+        \end{aligned}
+    \end{equation*}
+    The the target set, range, interval or field must be a subset of the \emph{constraint}, rendering the following statement mathematically incorrect:
+    \begin{equation*}
+        \begin{aligned}
+            (-6,-1]_{\substack{\text{} \\ \mathbb{N^+}}}
+        \end{aligned}
+    \end{equation*}
+    \vspace{5mm} \hrule
     \section{<to be defined>}
     \textsl{<to be defined>}
 \end{document}
@@ -384,25 +411,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+% epsilon-zucchini
+% wake on monog-drück-den power-knopf
+% ip over praktikanten 
