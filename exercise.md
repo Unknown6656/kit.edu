@@ -21,3 +21,7 @@
 <br/>[http://ti.itec.uka.de/TI-1/Uebungen/](http://ti.itec.uka.de/TI-1/Uebungen/)
 * ALGO1
 <br/>[https://crypto.iti.kit.edu/index.php?id=algo-sose16](https://crypto.iti.kit.edu/index.php?id=algo-sose16)
+
+##S03 (WS 2016-17)
+* PSE
+<br/>[https://pp.ipd.kit.edu/lehre/WS201617/pse/](https://pp.ipd.kit.edu/lehre/WS201617/pse/)
