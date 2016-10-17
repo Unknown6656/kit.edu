@@ -25,3 +25,7 @@
 ##S03 (WS 2016-17)
 * PSE
 <br/>[https://pp.ipd.kit.edu/lehre/WS201617/pse/](https://pp.ipd.kit.edu/lehre/WS201617/pse/)
+* STOCH
+<br/>[https://ilias.studium.kit.edu/goto.php?target=crs_600117&client_id=produktiv](https://ilias.studium.kit.edu/goto.php?target=crs_600117&client_id=produktiv)
+* BS
+<br/>[https://ilias.studium.kit.edu/goto.php?target=crs_593472&client_id=produktiv](https://ilias.studium.kit.edu/goto.php?target=crs_593472&client_id=produktiv)
