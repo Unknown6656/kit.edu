@@ -29,3 +29,5 @@
 <br/>[https://ilias.studium.kit.edu/goto.php?target=crs_600117&client_id=produktiv](https://ilias.studium.kit.edu/goto.php?target=crs_600117&client_id=produktiv)
 * BS
 <br/>[https://ilias.studium.kit.edu/goto.php?target=crs_593472&client_id=produktiv](https://ilias.studium.kit.edu/goto.php?target=crs_593472&client_id=produktiv)
+* TGI
+<br/>[https://ilias.studium.kit.edu/goto.php?target=crs_605378&client_id=produktiv](https://ilias.studium.kit.edu/goto.php?target=crs_605378&client_id=produktiv)
