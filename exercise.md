@@ -31,3 +31,6 @@
 <br/>[https://ilias.studium.kit.edu/goto.php?target=crs_593472&client_id=produktiv](https://ilias.studium.kit.edu/goto.php?target=crs_593472&client_id=produktiv)
 * TGI
 <br/>[https://ilias.studium.kit.edu/goto.php?target=crs_605378&client_id=produktiv](https://ilias.studium.kit.edu/goto.php?target=crs_605378&client_id=produktiv)
+* DT1
+<br/>[http://ti.ira.uka.de/TI-2/Uebungen/](http://ti.ira.uka.de/TI-2/Uebungen/)
+<br/>[http://ti.itec.uka.de/TI-2/Uebungen/](http://ti.itec.uka.de/TI-2/Uebungen/)
