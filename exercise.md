@@ -26,6 +26,7 @@
 * PSE
 <br/>[https://pp.ipd.kit.edu/lehre/WS201617/pse/](https://pp.ipd.kit.edu/lehre/WS201617/pse/)
 * STOCH
+<br/>[http://i11www.iti.uni-karlsruhe.de/teaching/winter2016/tgi](http://i11www.iti.uni-karlsruhe.de/teaching/winter2016/tgi)
 <br/>[https://ilias.studium.kit.edu/goto.php?target=crs_600117&client_id=produktiv](https://ilias.studium.kit.edu/goto.php?target=crs_600117&client_id=produktiv)
 * BS
 <br/>[https://ilias.studium.kit.edu/goto.php?target=crs_593472&client_id=produktiv](https://ilias.studium.kit.edu/goto.php?target=crs_593472&client_id=produktiv)
