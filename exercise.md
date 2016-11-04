@@ -16,7 +16,7 @@
 * SWT
 <br/>[https://ilias.studium.kit.edu/goto_produktiv_fold_513410.html](https://ilias.studium.kit.edu/goto_produktiv_fold_513410.html)
 <br/>[https://lez.ipd.kit.edu/lez/](https://lez.ipd.kit.edu/lez/)
-* DT1
+* TI-1/DT
 <br/>[http://ti.ira.uka.de/TI-1/Uebungen/](http://ti.ira.uka.de/TI-1/Uebungen/)
 <br/>[http://ti.itec.uka.de/TI-1/Uebungen/](http://ti.itec.uka.de/TI-1/Uebungen/)
 * ALGO1
@@ -26,12 +26,12 @@
 * PSE
 <br/>[https://pp.ipd.kit.edu/lehre/WS201617/pse/](https://pp.ipd.kit.edu/lehre/WS201617/pse/)
 * STOCH
-<br/>[http://i11www.iti.uni-karlsruhe.de/teaching/winter2016/tgi](http://i11www.iti.uni-karlsruhe.de/teaching/winter2016/tgi)
 <br/>[https://ilias.studium.kit.edu/goto.php?target=crs_600117&client_id=produktiv](https://ilias.studium.kit.edu/goto.php?target=crs_600117&client_id=produktiv)
 * BS
 <br/>[https://ilias.studium.kit.edu/goto.php?target=crs_593472&client_id=produktiv](https://ilias.studium.kit.edu/goto.php?target=crs_593472&client_id=produktiv)
 * TGI
+<br/>[http://i11www.iti.uni-karlsruhe.de/teaching/winter2016/tgi](http://i11www.iti.uni-karlsruhe.de/teaching/winter2016/tgi)
 <br/>[https://ilias.studium.kit.edu/goto.php?target=crs_605378&client_id=produktiv](https://ilias.studium.kit.edu/goto.php?target=crs_605378&client_id=produktiv)
-* DT1
+* TI-2/RO
 <br/>[http://ti.ira.uka.de/TI-2/Uebungen/](http://ti.ira.uka.de/TI-2/Uebungen/)
 <br/>[http://ti.itec.uka.de/TI-2/Uebungen/](http://ti.itec.uka.de/TI-2/Uebungen/)
