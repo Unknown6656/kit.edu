@@ -35,3 +35,6 @@
 * TI-2/RO
 <br/>[http://ti.ira.uka.de/TI-2/Uebungen/](http://ti.ira.uka.de/TI-2/Uebungen/)
 <br/>[http://ti.itec.uka.de/TI-2/Uebungen/](http://ti.itec.uka.de/TI-2/Uebungen/)
+* RUS A1
+<br/>[http://forum.russian-german-service.de](http://forum.russian-german-service.de)
+
