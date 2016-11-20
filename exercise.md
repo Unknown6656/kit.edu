@@ -2,6 +2,7 @@
 * HM1
 <br/>[http://www.math.kit.edu/iana2/lehre/hm1info2015w/de](http://www.math.kit.edu/iana2/lehre/hm1info2015w/de)
 * LA1
+<br/>[http://www.math.kit.edu/iag/event/la2016f/de](http://www.math.kit.edu/iag/event/la2016f/de)
 <br/>[https://ilias.studium.kit.edu/goto_produktiv_fold_475877.html](https://ilias.studium.kit.edu/goto_produktiv_fold_475877.html)
 * GBI
 <br/>[http://gbi.ira.uka.de/aufgaben/index.html](http://gbi.ira.uka.de/aufgaben/index.html)
@@ -12,6 +13,7 @@
 * HM2
 <br/>[http://www.math.kit.edu/iana2/lehre/hm2info2016s/de](http://www.math.kit.edu/iana2/lehre/hm2info2016s/de)
 * LA2
+<br/>[http://www.math.kit.edu/iag3/lehre/la2info2016s/de](http://www.math.kit.edu/iag3/lehre/la2info2016s/de)
 <br/>[https://ilias.studium.kit.edu/goto_produktiv_fold_529491.html](https://ilias.studium.kit.edu/goto_produktiv_fold_529491.html)
 * SWT
 <br/>[https://ilias.studium.kit.edu/goto_produktiv_fold_513410.html](https://ilias.studium.kit.edu/goto_produktiv_fold_513410.html)
