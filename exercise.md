@@ -25,6 +25,9 @@
 <br/>[https://crypto.iti.kit.edu/index.php?id=algo-sose16](https://crypto.iti.kit.edu/index.php?id=algo-sose16)
 
 ##S03 (WS 2016-17)
+* LA1 [NACH.]
+<br/>[https://ilias.studium.kit.edu/goto.php?target=crs_594251&client_id=produktiv](https://ilias.studium.kit.edu/goto.php?target=crs_594251&client_id=produktiv)
+<br/>[http://www.math.kit.edu/iag2/lehre/la1info2016w/](http://www.math.kit.edu/iag2/lehre/la1info2016w/)
 * PSE
 <br/>[https://pp.ipd.kit.edu/lehre/WS201617/pse/](https://pp.ipd.kit.edu/lehre/WS201617/pse/)
 * STOCH
