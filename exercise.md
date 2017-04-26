@@ -1,4 +1,10 @@
-##S01 (WS 2015-16)
+## general
+* Videos
+<br/>[https://opencast.informatik.kit.edu/engage/ui/index.html](https://opencast.informatik.kit.edu/engage/ui/index.html)
+<br/>[https://videos.informatik.kit.edu/](https://videos.informatik.kit.edu/)
+<br/>[https://www.youtube.com/channel/UC6AqaL6fH91U5YhyUCI0ZOQ](https://www.youtube.com/channel/UC6AqaL6fH91U5YhyUCI0ZOQ)
+
+## S01 (WS 2015-16)
 * HM1
 <br/>[http://www.math.kit.edu/iana2/lehre/hm1info2015w/de](http://www.math.kit.edu/iana2/lehre/hm1info2015w/de)
 * LA1
@@ -9,7 +15,7 @@
 * Programmieren
 <br/>[https://sdqweb.ipd.kit.edu/wiki/Vorlesung_Programmieren_WS15/16](https://sdqweb.ipd.kit.edu/wiki/Vorlesung_Programmieren_WS15/16)
 
-##S02 (SS 2016)
+## S02 (SS 2016)
 * HM2
 <br/>[http://www.math.kit.edu/iana2/lehre/hm2info2016s/de](http://www.math.kit.edu/iana2/lehre/hm2info2016s/de)
 * LA2
@@ -24,7 +30,7 @@
 * ALGO1
 <br/>[https://crypto.iti.kit.edu/index.php?id=algo-sose16](https://crypto.iti.kit.edu/index.php?id=algo-sose16)
 
-##S03 (WS 2016-17)
+## S03 (WS 2016-17)
 * LA1 [NACH.]
 <br/>[https://ilias.studium.kit.edu/goto.php?target=crs_594251&client_id=produktiv](https://ilias.studium.kit.edu/goto.php?target=crs_594251&client_id=produktiv)
 <br/>[http://www.math.kit.edu/iag2/lehre/la1info2016w/](http://www.math.kit.edu/iag2/lehre/la1info2016w/)
@@ -43,3 +49,17 @@
 * RUS A1
 <br/>[http://forum.russian-german-service.de](http://forum.russian-german-service.de)
 
+## S04 (SS 2017)
+* EiR
+<br/>[https://ilias.studium.kit.edu/goto.php?target=crs_667412&client_id=produktiv](https://ilias.studium.kit.edu/goto.php?target=crs_667412&client_id=produktiv)
+* NUM
+<br/>[http://www.math.kit.edu/ianm3/lehre/numainfing2017s/](http://www.math.kit.edu/ianm3/lehre/numainfing2017s/)
+<br/>[https://ma-vv.math.kit.edu/sso/student-main](https://ma-vv.math.kit.edu/sso/student-main)
+* BWL
+<br/>[https://marketing.iism.kit.edu/137_731.php](https://marketing.iism.kit.edu/137_731.php)
+<br/>[https://ilias.studium.kit.edu/ilias.php?ref_id=682490&cmdClass=ilcourseregistrationgui&cmdNode=75:qp:qs&baseClass=ilrepositorygui](https://ilias.studium.kit.edu/ilias.php?ref_id=682490&cmdClass=ilcourseregistrationgui&cmdNode=75:qp:qs&baseClass=ilrepositorygui)
+* DBSys
+<br/>[https://ilias.studium.kit.edu/goto.php?target=crs_681428&client_id=produktiv](https://ilias.studium.kit.edu/goto.php?target=crs_681428&client_id=produktiv)
+* SEC
+<br/>[http://crypto.iti.kit.edu/index.php?id=798](http://crypto.iti.kit.edu/index.php?id=798)
+<br/>[https://github.com/skript-sicherheit/skript](https://github.com/skript-sicherheit/skript)
