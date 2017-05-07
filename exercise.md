@@ -3,6 +3,8 @@
 <br/>[https://opencast.informatik.kit.edu/engage/ui/index.html](https://opencast.informatik.kit.edu/engage/ui/index.html)
 <br/>[https://videos.informatik.kit.edu/](https://videos.informatik.kit.edu/)
 <br/>[https://www.youtube.com/channel/UC6AqaL6fH91U5YhyUCI0ZOQ](https://www.youtube.com/channel/UC6AqaL6fH91U5YhyUCI0ZOQ)
+* Overview of Passwords that some obscure guy made...
+<br/>[https://docs.google.com/spreadsheets/d/1cl-YATVcFwmUglBBJFDRW7CtSt_1gNaWOFztWMAak24/edit#gid=0](https://docs.google.com/spreadsheets/d/1cl-YATVcFwmUglBBJFDRW7CtSt_1gNaWOFztWMAak24/edit#gid=0)
 
 ## S01 (WS 2015-16)
 * HM1
