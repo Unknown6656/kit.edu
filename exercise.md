@@ -57,7 +57,7 @@
 <br/>[https://ma-vv.math.kit.edu/sso/student-main](https://ma-vv.math.kit.edu/sso/student-main)
 * BWL
 <br/>[https://marketing.iism.kit.edu/137_731.php](https://marketing.iism.kit.edu/137_731.php)
-<br/>[https://ilias.studium.kit.edu/ilias.php?ref_id=682490&cmdClass=ilcourseregistrationgui&cmdNode=75:qp:qs&baseClass=ilrepositorygui](https://ilias.studium.kit.edu/ilias.php?ref_id=682490&cmdClass=ilcourseregistrationgui&cmdNode=75:qp:qs&baseClass=ilrepositorygui)
+<br/>[https://ilias.studium.kit.edu/goto.php?target=crs_682490&client_id=produktiv](https://ilias.studium.kit.edu/goto.php?target=crs_682490&client_id=produktiv)
 * DBSys
 <br/>[https://ilias.studium.kit.edu/goto.php?target=crs_681428&client_id=produktiv](https://ilias.studium.kit.edu/goto.php?target=crs_681428&client_id=produktiv)
 * SEC
