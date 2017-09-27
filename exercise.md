@@ -71,4 +71,5 @@
 * ProPa
 <br/>[https://pp.info.uni-karlsruhe.de/lehre/WS201718/paradigmen/index.php?lang=de](https://pp.info.uni-karlsruhe.de/lehre/WS201718/paradigmen/index.php?lang=de)
 <br/>[https://pp.info.uni-karlsruhe.de/lehre/WS201718/paradigmen/uebung/](https://pp.info.uni-karlsruhe.de/lehre/WS201718/paradigmen/uebung/)
-
+* PSE
+<br/>[https://pp.info.uni-karlsruhe.de/lehre/WS201718/pse/](https://pp.info.uni-karlsruhe.de/lehre/WS201718/pse/)
