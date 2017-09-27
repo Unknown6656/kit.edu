@@ -66,3 +66,9 @@
 * SEC
 <br/>[http://crypto.iti.kit.edu/index.php?id=798](http://crypto.iti.kit.edu/index.php?id=798)
 <br/>[https://github.com/skript-sicherheit/skript](https://github.com/skript-sicherheit/skript)
+
+## S05 (WS 2017)
+* ProPa
+<br/>[https://pp.info.uni-karlsruhe.de/lehre/WS201718/paradigmen/index.php?lang=de](https://pp.info.uni-karlsruhe.de/lehre/WS201718/paradigmen/index.php?lang=de)
+<br/>[https://pp.info.uni-karlsruhe.de/lehre/WS201718/paradigmen/uebung/](https://pp.info.uni-karlsruhe.de/lehre/WS201718/paradigmen/uebung/)
+
