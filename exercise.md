@@ -76,4 +76,6 @@
 * CG
 <br/>[http://cg.ivd.kit.edu/lehre/ws2018/index_2052.php](http://cg.ivd.kit.edu/lehre/ws2018/index_2052.php)
 <br/>[http://cg.ivd.kit.edu/lehre/ws2018/index_2053.php](http://cg.ivd.kit.edu/lehre/ws2018/index_2053.php)
-
+<br/>[https://ilias.studium.kit.edu/ilias.php?ref_id=746400&cmdClass=ilrepositorygui&cmdNode=75&baseClass=ilRepositoryGUI](https://ilias.studium.kit.edu/ilias.php?ref_id=746400&cmdClass=ilrepositorygui&cmdNode=75&baseClass=ilRepositoryGUI)
+* OS
+<br/>[https://ilias.studium.kit.edu/ilias.php?ref_id=738498&cmd=view&cmdClass=ilrepositorygui&cmdNode=75&baseClass=ilrepositorygui](https://ilias.studium.kit.edu/ilias.php?ref_id=738498&cmd=view&cmdClass=ilrepositorygui&cmdNode=75&baseClass=ilrepositorygui)
