@@ -71,8 +71,10 @@
 * ProPa
 <br/>[https://pp.info.uni-karlsruhe.de/lehre/WS201718/paradigmen/index.php?lang=de](https://pp.info.uni-karlsruhe.de/lehre/WS201718/paradigmen/index.php?lang=de)
 <br/>[https://pp.info.uni-karlsruhe.de/lehre/WS201718/paradigmen/uebung/](https://pp.info.uni-karlsruhe.de/lehre/WS201718/paradigmen/uebung/)
+<br/>[praktomat.cs.kit.edu/pp_2017_WS](praktomat.cs.kit.edu/pp_2017_WS)
 * PSE
 <br/>[https://pp.info.uni-karlsruhe.de/lehre/WS201718/pse/](https://pp.info.uni-karlsruhe.de/lehre/WS201718/pse/)
+<br/>[https://pse.informatik.kit.edu/](https://pse.informatik.kit.edu/)
 * CG
 <br/>[http://cg.ivd.kit.edu/lehre/ws2018/index_2052.php](http://cg.ivd.kit.edu/lehre/ws2018/index_2052.php)
 <br/>[http://cg.ivd.kit.edu/lehre/ws2018/index_2053.php](http://cg.ivd.kit.edu/lehre/ws2018/index_2053.php)
