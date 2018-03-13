@@ -82,5 +82,7 @@
 * OS
 <br/>[https://ilias.studium.kit.edu/ilias.php?ref_id=738498&cmd=view&cmdClass=ilrepositorygui&cmdNode=75&baseClass=ilrepositorygui](https://ilias.studium.kit.edu/ilias.php?ref_id=738498&cmd=view&cmdClass=ilrepositorygui&cmdNode=75&baseClass=ilrepositorygui)
 <br/>[http://os.itec.kit.edu/1556.php](http://os.itec.kit.edu/1556.php)
+<br/>[http://os.itec.kit.edu/3355_3364.php](http://os.itec.kit.edu/3355_3364.php)
+<br/>[http://os.itec.kit.edu/3355_3363.php](http://os.itec.kit.edu/3355_3363.php)
 * TGI
 <br/>[https://i11www.iti.kit.edu/teaching/winter2017/tgi/index](https://i11www.iti.kit.edu/teaching/winter2017/tgi/index)
