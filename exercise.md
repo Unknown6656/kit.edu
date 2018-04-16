@@ -86,3 +86,14 @@
 <br/>[http://os.itec.kit.edu/3355_3363.php](http://os.itec.kit.edu/3355_3363.php)
 * TGI
 <br/>[https://i11www.iti.kit.edu/teaching/winter2017/tgi/index](https://i11www.iti.kit.edu/teaching/winter2017/tgi/index)
+
+## S06 (SS 2018)
+* Kognitive Systeme
+<br/>[http://his.anthropomatik.kit.edu/Teaching/VorlesungKognitiveSysteme/](http://his.anthropomatik.kit.edu/Teaching/VorlesungKognitiveSysteme/)
+<br/>[https://his.anthropomatik.kit.edu/28_1082.php](https://his.anthropomatik.kit.edu/28_1082.php)
+* DBsys
+<br/>[https://ilias.studium.kit.edu/goto.php?target=crs_814897&client_id=produktiv](https://ilias.studium.kit.edu/goto.php?target=crs_814897&client_id=produktiv)
+* EiR
+<br/>[https://ilias.studium.kit.edu/goto.php?target=crs_807135&client_id=produktiv](https://ilias.studium.kit.edu/goto.php?target=crs_807135&client_id=produktiv)
+* EZsys
+<br/>[https://ilias.studium.kit.edu/goto.php?target=crs_800782&client_id=produktiv](https://ilias.studium.kit.edu/goto.php?target=crs_800782&client_id=produktiv)
